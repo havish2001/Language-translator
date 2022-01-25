@@ -14,7 +14,6 @@ Please get a subscription key from azure   `https://docs.microsoft.com/en-us/azu
 .set('Ocp-Apim-Subscription-Key', '<AZURE_API_KEY>')
 
 ## Demo
+![image](https://user-images.githubusercontent.com/54392756/150961723-2d1d1770-a690-4295-872a-24984802e3b1.png)
 
-![2020-08-03 (7)](https://user-images.githubusercontent.com/48589838/89154539-af335e00-d584-11ea-8398-7792510ce065.png)
-![2020-08-03 (8)](https://user-images.githubusercontent.com/48589838/89154541-b0648b00-d584-11ea-8872-1ce63be70cdc.png)
 
